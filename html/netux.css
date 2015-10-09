@@ -1,0 +1,31 @@
+h1{
+	font-size: 30px;
+	
+	
+	font-size: 50px;
+	text-align: right;
+	margin-top: 50px;
+	font-family: sans-serif;
+	letter-spacing: -3px;
+	color: red;
+	text-shadow: 3px -1px 0 yellow,
+	-3px 1px 0 green;
+	text-transform:lowercase;
+	font-variant: small-caps;
+	}
+	.box{
+		width: 300px;
+		height: 400px;
+		position: relative;
+		background: yellow;
+		top: 100px;
+		left: 200px;
+	}
+	.wrap{
+		width: 600px;
+		height: 700px;
+		margin: auto;
+		background: red;
+		position: absolute;
+		left: 0px; top:30px;
+	}

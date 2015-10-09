@@ -1,0 +1,23 @@
+form li{
+	list-style: none;
+	margin-bottom: 20px;
+	color: blue;
+}
+label{
+	display: block;
+	cursor: pointer;
+	color: #29292;
+}
+form ul{
+	padding-left: 0;
+}
+ form texrarea
+{
+	width: 300px;
+	height: 400px;
+	background-color:orange;
+}
+input{
+	color: green;
+	background-color:orange;
+}
