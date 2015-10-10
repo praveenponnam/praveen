@@ -1,0 +1,50 @@
+img{
+	width: 200px;
+	height: 200px;
+	padding-left: 0;
+}
+aside ol{
+	position:relative;
+	left: 250;
+	bottom: 200;
+	list-style: none;
+	font-size: 30;
+	font-style: inherit;
+	padding-left: 0;
+	}
+	.wrap{
+		position: relative;
+		left: 630;
+		bottom: 250;
+		font-size: 20;
+		font-family: sans-serif;
+		word-spacing: 10px;
+		
+
+	}
+	ul{
+		background-color: green;
+		list-style: none;
+		font-size: 30;
+		position: relative;
+		bottom: 100;
+
+	}
+	ul h2{
+		text-decoration: arial;
+		color: red;
+	}
+	marquee {
+		font-size: 40;
+		float:left;
+		position: relative;
+		bottom: 100;
+		color: red;
+	}
+	marquee img{
+		float: left;
+		width: 300px;
+		height: 50px;
+		position: relative;
+		margin: 10px;	
+	}
